@@ -9,6 +9,6 @@ Form is using MySQL Prepared Statements and password encryption using SHA-256.
 
 ## Installation using docker(recommended)
 
-1. Clone the repo `$ git clone https://github.com/laur1s/PHP-Registration-Form.git`
+1. Clone the repo `$ git clone https://github.com/dighetushar654/Php_Form_docker.git
 2. Run `docker-compose up -d` This will fetch PHP and MySQL Docker images, launch apache on http://localhost:8080 and MySQL on port 3306
 3. If you want to stop the service just run `docker-compose down`
